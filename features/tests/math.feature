@@ -4,4 +4,4 @@ Feature: Is math a thing? Lets find out
     Given a person knows a number who's value is 1
       And a person knows a number who's value is 1
     When a person adds the numbers together
-    Then the total should be 2
+    Then the total should be 3
