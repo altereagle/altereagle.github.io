@@ -4,7 +4,7 @@
   "description": "an exmaple",
   "main": "server",
   "scripts": {
-    "test": "./node_modules/.bin/cucumber.js",
+    "test": "./node_modules/.bin/cucumber.js; mocha -R spec",
     "start": "node server.js"
   },
   "directories": {
